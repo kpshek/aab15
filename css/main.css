@@ -1331,3 +1331,19 @@ td {
     visibility: hidden;
   }
 }
+.price_table {
+  border: 1px solid #dddddd;
+}
+.price_table td,
+.price_table th {
+  padding: 8px;
+  border-bottom: 1px solid #dddddd;
+}
+.price_table thead {
+  background: #e9e9e9;
+}
+.price_table thead th {
+  font-family: 'FontAwesome';
+  color: #676b6a;
+  font-weight: normal;
+}
