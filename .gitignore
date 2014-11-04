@@ -1,5 +1,6 @@
 # Created by .gitignore support plugin (hsz.mobi)
-.idea
+.idea/
+.idea/workspace.xml
 untitled folder
 .DS_Store
 # css/main.css
