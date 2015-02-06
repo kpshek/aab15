@@ -1,0 +1,93 @@
+Write the combined JS, CSS, and HTML necessary to create an accordion component on a given page.
+
+(Accordion: Header with associated content that is hidden until its respective header is clicked, only one open at a time)
+
+—-----------------------
+| Title 1              |
+------------------------
+|                      |
+|  Toggleable content  |
+|                      |
+------------------------
+| Title 2              |
+------------------------
+|                      |
+(not visible)
+|  Toggleable content  |
+
+|  -   -   -   -   -   |
+
+<div class="container">
+    <div class="accordian">
+        <ul>
+            <li>
+                <a href="#tab1" class="header">Title 1</a>
+                <div class="content">
+                    <p>This is my content</p>
+                </div>
+            </li>
+            <li>
+                <a href="#tab2" class="header">Title 2</a>
+                <div class="content">
+                    <p>This is my content for my second tab</p>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+
+<style>
+    .container {
+        width: 300px;
+        height: 500px;
+        auto: auto;
+    }
+
+    .accordian {
+        width: 290px;
+        padding: 5px;
+        background: #000000;
+
+    }
+
+    .accordian ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .accordian .header {
+        text-decoration: none;
+        display: block;
+        color: #ffffff;
+        background: #999999;
+    }
+
+    .accordian .content {
+        padding: 10px;
+        display:none;
+        margin: 5px 0;
+    }
+
+    .accordian li.active .content {
+        display: block;
+    }
+
+
+
+</style>
+
+
+<script>
+
+    function initAccordian() {
+        $('.accordian').on('click','a', function() {
+            $('li','.accordian').removeClass('active');
+            $(this).parent().addClass('active');
+        });
+    }
+
+    initAccordian();
+</script>

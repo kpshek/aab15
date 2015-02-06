@@ -1,0 +1,106 @@
+<style>
+    body {
+        background: rgba(0,0,0,0.2);
+    }
+
+    .contain {
+        width: 300px;
+        height: 500px;
+        margin: auto;
+    }
+
+    .accordion,.accordion div,.accordion h1,.accordion p,.accordion a,.accordion img,.accordion span,.accordion em,.accordion ul,.accordion li {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
+    .accordion {
+        width: 290px;
+        padding: 1px 5px 5px 5px;
+        background-color: #000000;
+    }
+
+    .accordion .tab {
+        display: block;
+        height: 35px;
+        margin-top: 4px;
+        padding-left: 20px;
+        font: bold 12px/35px Arial, sans-serif;
+        text-decoration: none;
+        color: #eee;
+        text-shadow: 1px 1px 0px rgba(0,0,0, .2);
+
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        background: #6c6e74; /* Old browsers */
+        background: -webkit-linear-gradient(top, #6c6e74 0%, #4b4d51 100%);
+    }
+
+    .accordion .tab:hover, .accordion div:target .tab {
+        color: darkslategrey;
+        background: dodgerblue; /* Old browsers */
+        background: -webkit-linear-gradient(top, dodgerblue 0%, lightblue 100%);
+    }
+    .accordion div .content {
+        padding: 5px;
+
+        display: none;
+        margin: 5px 0;
+    }
+
+    .accordion div:target .content {
+        display: block;
+    }
+    .accordion .content p {
+        color: #ffffff;
+
+        font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+        line-height: 1.5em;
+        font-size: 0.8em;
+    }
+
+    .accordion .content ul {
+        margin: 0;
+
+        list-style-type: none;
+    }
+</style>
+
+<div class="contain">
+    <div class="accordion">
+        <div id="tab-1">
+            <a href="#tab-1" class="tab">Option One</a>
+            <div class="content">
+
+                <p>Known locally as "SoMa", this neighborhood was home to the dot.com boom and boasts cutting-edge restaurants and boutiques.</p>
+                <ul>
+                    <li><img src="http://cssdeck.com/uploads/media/posts/6/6GKNUeI.png" alt=""></li>
+                    <li><img src="http://cssdeck.com/uploads/media/posts/8/8XP0nj1.png" alt=""></li>
+                    <li><img src="http://cssdeck.com/uploads/media/posts/0/0Df6hi1.png" alt=""></li>
+                </ul>
+            </div>
+        </div>
+        <div id="tab-2">
+            <a href="#tab-2" class="tab">Option Two</a>
+            <div class="content">
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua.</p>
+
+            </div>
+        </div>
+        <div id="tab-3">
+            <a href="#tab-3" class="tab">Option Three</a>
+            <div class="content">
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua.</p>
+
+            </div>
+        </div>
+    </div>
+
+
+

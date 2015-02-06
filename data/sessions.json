@@ -1,0 +1,584 @@
+[
+    {
+        "para": [],
+        "id": 599,
+        "speaker": "Anthony W. Montgomery",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/2b9f01a0e2366e770ac2a279a010ae07?s=150&r=pg&d=identicon\" alt=\"Anthony W. Montgomery\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Refactoring Social DNA in Business Teams Through Scrum"
+    },
+    {
+        "para": [],
+        "id": 636,
+        "speaker": "Gary Pedretti",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/72fb03b2575d4d426363497a1427f3f6?s=150&r=pg&d=mm\" alt=\"Gary Pedretti\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Territories, Not Hierarchies - Using Pressfield's The War of Art to Enable Small Self-Organizing Teams, Intrinsic Motivation, and Organizational Change"
+    },
+    {
+        "para": [
+            "How do you define 'value'? What does it take for a business to shift 'Value' into high gear and create experiences leaving your customer saying \"Wow\"? Why does the software industry struggle to even meet expectations?  If you're struggling to create valuable experiences for your customer then this session is for you. ",
+            "Every team I work with talks about delivering valuable features, and yet many of their customers are dissatisfied. When I question how they define value I might get text book answers about ROI, sales, efficiencies or other quantifiable measures. Although these are important measures, I don't believe 'value' can be defined by anything you can quantify. If that's true then how do we get from \"Valuable\" to \"Wow\" without going broke? ",
+            "We will start by examining two similar customer experiences. Both experiences are valuable, one met expectations but the other left the customer going 'Wow!'. Regardless of what business your in, with some awareness it's possible to start creating more 'Wow!' moments for your customers.  "
+        ],
+        "id": 661,
+        "speaker": "Mike Edwards",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/02999e15e4cd456e8a44d302609f3118?s=150&r=pg&d=monsterid\" alt=\"Mike Edwards\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Shifting value into high gear"
+    },
+    {
+        "para": [
+            "Let's face it, when organizations want to \"go Agile\", they really want help solving a problem they can't quite put their finger on. Some of the time they may buy a tool and call themselves Agile. Other times, they'll implement a few practices but not much more. There are no shortage of tools, methods and techniques for installing Agile and there are an equal number of failure stories. At the end of day, Agile is simply a trigger for an organizational change.",
+            "In this session you'll learn 3 techniques that will help you navigate through complex change by working on a real problem with your peers. After all, a consultant or coach is only going to take you so far!"
+        ],
+        "id": 664,
+        "speaker": "jasonlittle",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/abcaebf445895bee03342e7c5b9f8763?s=150&r=pg&d=retro\" alt=\"jasonlittle\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "3 Techniques for Architecting Change"
+    },
+    {
+        "para": [
+            "Abstract:\r\n Design Thinking refers to the methods and processes to investigate complex problems in highly uncertain systems. This workshop is about how to use this iterative process of observation, ideation and implementation to better understand organisation's culture and create reasons for people in the organisation to embrace Agile.\r\n \r\n Summary:\r\n This workshop is about how to use a design thinking process an techniques to better understand organisation's culture and minimize resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyze and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile. \r\n You'll also learn some useful design thinking techniques that you can use in your retrospectives!! \r\n \r\n Description:\r\n Design Thinking refers to the methods and processes to investigate complex problems in highly uncertain systems, acquiring information, analysing knowledge, and positing solutions. This workshop is about the usage of this process to better understand organisation's culture and minimise resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyse and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile.\r\n This iterative process of observation, ideation and implementation can be integrated within your retrospectives and also applied outside IT to create a continuous improvement engine for organisational culture in organisations.     \r\n \r\n\r\n\r\n\r\n"
+        ],
+        "id": 668,
+        "speaker": "Angel Diaz-Maroto Alvarez",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/8161ffb2f8121a76bb87ed6048863476?s=150&r=pg&d=identicon\" alt=\"Angel Diaz-Maroto Alvarez\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Expanding an Agile Culture in organisations with Design thinking"
+    },
+    {
+        "para": [
+            "In this session I'm showing a model that organizations can use to foster the adoption of agile. This model is \"locally\" based on lean startup, understandig Agile initiatives from different countries as startups, and \"globally\" it uses the validated learning cycles of every organization to create a validated learning knowledge base with the performed experiments of agile practices in diferent environments. This \"validated learning knowledge base\" is co-created by the members of the internal international Agile community and shared through A3 report sheets. \r\n Lean Start up principles as foundations for a change strategy, A3 thinking and problem solving as a support for lean continuous improvement, Agile Journey mapping as a strategy designing tool and Validated Learning Knowledge Base as a support for effective sharing, compose a complete and easy to use framework that can help communities, multisite organisations and groups of Agile leaders to boost Agile adoption in their business units.  ",
+            "This model has being experimented in the Dutch multinational organisation ING.\r\n \r\n\r\n"
+        ],
+        "id": 669,
+        "speaker": "Angel Diaz-Maroto Alvarez",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/8161ffb2f8121a76bb87ed6048863476?s=150&r=pg&d=monsterid\" alt=\"Angel Diaz-Maroto Alvarez\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Combining lean startup and A3 Thinking to foster cultural change in distributed organizations"
+    },
+    {
+        "para": [
+            "Are you tired of TDD workshops that make you do boring things like calculate bowling scores and prime factors or demonstrate how to win at the game of life? If so, this is the session for you In this TDD workshop we will be building the domain model for EverCraft -- a new MMORPG from Blizzards of the Coast. We have lots of story cards prepared covering features from combat to magic, classes to spells, and races to items. Plus, we'll be defining some of these cards during the session in case you want that +9 knife of ogre slaying or enjoy casting magic missile at the darkness.",
+            "This workshop is language agnotisic and for all levels of developers. The focus is on TDD and emergent design but pair programming will be covered as well. The only requirement is that you bring a laptop and that you be able to test-drive you code with your language of choice. When you are done you will emerge a better programmer for the experience but there is small chance you will have a craving for Cheetos and Mountain Dew."
+        ],
+        "id": 701,
+        "speaker": "Guy Royse",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/1e0e9da43623ecdb31a7a1a74c03c1e4?s=150&r=pg&d=retro\" alt=\"Guy Royse\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Putting the D&D in TDD"
+    },
+    {
+        "para": [],
+        "id": 703,
+        "speaker": "Kevin Poniatowski",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/d57711ecf14ab71415e0b1902fc78990?s=150&r=pg&d=wavatar\" alt=\"Kevin Poniatowski\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "If My CI/CD Teams have Time for Security, So Does Yours"
+    },
+    {
+        "para": [],
+        "id": 705,
+        "speaker": "Dave Rooney",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/c7740213c1a77f13199957879f2e090a?s=150&r=pg&d=identicon\" alt=\"Dave Rooney\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Effective Software Delivery - Agility Without the Dogma"
+    },
+    {
+        "para": [
+            "\"Who are you?\" \"What do you want?\" and \"What are you going to do about it?\" Those are the essential questions reporters use for practically any daily news story.",
+            "Do they sound familiar? \"As a [Who are you?] I want [What do you want?] so that I can [What are you going to do about it?].\"",
+            "Building software may seem light years away from journalism, yet there are techniques to be shared. How does a reporter blend natural curiosity, information from multiple sources and some basic writing skills to create a meaningful, well-crafted, unbiased story - and deliver it for daily release?",
+            "In this interactive session, Sue and Andrew will examine the parallels between interviewing people for news gathering and interviewing users and customers to discover what they need and want from your products. The focus is on telling a meaningful story that leads to a great product. You'll discover how to:",
+            "You'll leave with tools reporters use to develop their products and be able to apply them to create and use effective user stories that lead to useful and usable products.",
+            " "
+        ],
+        "id": 706,
+        "speaker": "Sue Johnston",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/26187fbb1c225c275d27fc19772a230e?s=150&r=pg&d=identicon\" alt=\"Sue Johnston\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Get the Story Before you Write the 'Story' - Journalistic Skills for Agile Professionals"
+    },
+    {
+        "para": [
+            "Agilistas are often quick to dismiss any practice that looks like a remnant of the 'waterfall days.'  Process management tends to be one of those end-to-end activities that looks, smells and tastes like a waterfall initiative, but don't be fooled!",
+            " ",
+            "Process management is a vital part of preparing the ground for a successful agile design effort.  There are certainly times when process is not so important to software design, but if you're building business software, it is foundational.  In this environment, good process management doesn't guarantee good design, but lack of it makes the probability of good design less likely."
+        ],
+        "id": 709,
+        "speaker": "Tom Bellinson",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/ca20149a21a752f2dec6b9fb35a1de92?s=150&r=pg&d=identicon\" alt=\"Tom Bellinson\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "The Odd Couple: Process Management and Agile Design"
+    },
+    {
+        "para": [
+            "Is business process improvement part of Lean IT? What about best practices and benchmarking? Is agile software development a Lean IT practice? What about IT operational excellence and the ITIL service management framework? How about performance management dashboards and scorecards? Is applying Lean techniques to project management considered a Lean IT practice? And is cloud computing relevant in a Lean IT world? The answer to all these questions is yes. But Lean IT is much more than just a set of tools and practices; it is a deep behavioral and cultural transformation that encourages everyone in the organization to think differently about the role of quality information in the creation and delivery of value to the customer.",
+            "Lean IT enables the IT organization to reach beyond alignment toward fundamental integration, cultivating an inseparable, collaborative partnership with the business. Whether you are new to Lean, or a seasoned veteran, in this book you will find new insights into the power of Lean and the critical impact of an integrated IT function. In this discussion Patrick Phillips will explore all aspects of Lean IT within two primary dimensions:",
+            "Outward-facing Lean IT: Engaging information, information systems, and the IT organization in partnership with the business to continuously improve and innovate business processes and management systems",
+            "Inward-facing Lean IT: Helping the IT organization achieve operational excellence, applying the principles and tools of continuous improvement to IT operations, services, software development, and projects These two dimensions are not separate but complementary.",
+            "The adoption of the term Lean software development is more than a name change. While agile is a set of development and life cycle management tools and methods focused on the just-in-time development of quality software, Lean software development addresses a larger context: the environment within which the software operates, the value streams of the enterprise. For example, in a business application, properly functioning software is viewed as a supporting element of the business process. In an embedded software application (such as the operating system of a smartphone or the control systems of a jet aircraft), the software is part of the overall product design and value proposition to the customer. Lean emphasizes seeing the whole through the eyes of the customer, not its component parts through the eyes of the designer or developer. 'Lean software development views all Agile methods as valid, proven applications of Lean thinking to software,' says Jeff Sutherland, a signer of the Agile Manifesto. 'It goes beyond Agile, providing a broader perspective that enables Agile methods to thrive.'",
+            "In the words of Mary and Tom Poppendieck, 'A Lean organization optimizes the whole value stream, from the time it receives an order to address a customer need until software is deployed and the need is addressed. If an organization focuses on optimizing something less than the entire value stream, we can just about guarantee that the overall value stream will suffer.' We have witnessed many skilled agile practitioners fall into the common Lean trap: focusing on tools and techniques rather than solving problems and eliminating waste. Lean software development expands agile's focus from optimizing the software development process toward improving entire value streams. Thus, Lean software development must integrate and synchronize with all business processes, management systems, and kaizen activity, supporting the Lean transformation of the overall enterprise.  This session will take you into a discussion with a practitioner who is one of the industry's leading figures in understanding and utilizing lean. ",
+            " "
+        ],
+        "id": 715,
+        "speaker": "Patrick K. Phillips",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/685ae8d5f5e5d709e7f8d56445568dee?s=150&r=pg&d=wavatar\" alt=\"Patrick K Phillips\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Understanding Lean and How it Can Scale Agile"
+    },
+    {
+        "para": [],
+        "id": 731,
+        "speaker": "Tom Churchwell",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/bbb6a5dc03cec534ae66485ef1713e0c?s=150&r=pg&d=monsterid\" alt=\"Tom Churchwell\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile QA"
+    },
+    {
+        "para": [
+            "Improvisational Comedy (also called Improv) is a form of theater where the performance itself is created in the moment. Successful improv involves using a variety of skills and techniques, which allow performers to quickly adapt to a constantly changing environment and new information. Now, reread the last sentence, but replace 'improv' with 'testing'. This mildly interactive presentation will highlight a few of the many similarities between improv and testing. Creative metaphors and critical analysis will provide novel and notable ways to think about testing. From stage fright to test summary report, and everything in between&hellip;attendees will laugh, learn, and leave with knowledge to help Improv(e) Your Testing!"
+        ],
+        "id": 742,
+        "speaker": "Damian Synadinos",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/c7e3b73442aea846855f81760e982fb7?s=150&r=pg&d=mm\" alt=\"damian synadinos\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Improv(e) Your Testing! Tips and Tricks from Jester to Tester"
+    },
+    {
+        "para": [
+            "This is a hands-on programming session in which the winning teams will receive fabulous prizes (masquerading as cheap candy). The point of the session has to do with the basis for awarding candy to the winning teams. We do not wish to reveal that point in advance.",
+            " ",
+            " "
+        ],
+        "id": 746,
+        "speaker": "Dave Nicolette",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e27e8f1c2ac0b54e49a053521d02772e?s=150&r=pg&d=retro\" alt=\"Dave Nicolette\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Coding for Food"
+    },
+    {
+        "para": [
+            "Is your team and/or organization feeling pain from transitioning from traditional methods to agile?  When transitioning from waterfall to agile some pain is to be expected; the approach and underlying principles are different.  However, teams and organizations often look for quick fixes to these pains.  This often results in only addressing the symptoms of some larger dysfunction that may be deeply seeded in the culture.  This talk will explore some of the most commonly experienced pains at both the team and organizational levels.  Typical (incorrect) solutions will be presented as will some of the most probable true issues and how to address each."
+        ],
+        "id": 751,
+        "speaker": "Brian Irwin",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e47634df6a4f8eb9aaa6d6c08cdd1309?s=150&r=pg&d=retro\" alt=\"Brian\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile Implementation Pains: Treat the Disease not the Symptom"
+    },
+    {
+        "para": [
+            "As we think about an environment 15-20 years from now, how is it different? In this interactive presentation, we will step back from our emphasis on frameworks, technologies, and process and consider what would allow us to move beyond these constraints. We will look at the reasons why we have needed guardrails to deploy software more predictably and frequently, and recognize that many of these guardrails tend to accomodate rather than eliminate disfunction. I will share a vision of what delivery could look like in the near-future to inspire us to think futher ahead as we evolve our industry."
+        ],
+        "id": 752,
+        "speaker": "Dave Gunther",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e706028c11b9417660752e6cff3f076d?s=150&r=pg&d=mm\" alt=\"Dave\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Beyond an Agile Framework - What is next?"
+    },
+    {
+        "para": [
+            "Have your retrospectives turned into nap time?",
+            "Do you stand ups make you feel like you are living the movie Groundhog Day?",
+            "Would it be more pleasant to have bamboo shoots stuck under your fingernails than go to sprint planning?",
+            "Are there story cards on the board that are actually collecting dust?",
+            "Can you measure your technical debt trillions?",
+            "We are going to look at the challenges of keeping everyone engaged, and how the concepts of games can help us facilitate work, how gamification can help engage, and how other concepts around games can help us turn the — \"not this again,\" into something we may enjoy.   During the session, we talk about the different types of games, the basic criteria and good practices to create your own games or adapt other great games, and then we’ll work together to create our own games based on specific situations.",
+            "From the session, you'll learn what games other people in the workshop use, see how games can not only help facilitate but more importantly help us get work done, and as a bonus, you’ll walk away with a handout with resources to existing games as well as the steps to create your own games and or look to use gamification."
+        ],
+        "id": 753,
+        "speaker": "Matt Badgley",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/31cefecbafdd32a9af4a53974823aa8e?s=150&r=pg&d=wavatar\" alt=\"Matt Badgley\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Spice Up Your Agile Everything"
+    },
+    {
+        "para": [
+            "There has been a lot of talk lately about Software Craftsmanship. Most of this talk has been centered around how to take existing, skilled programmers and turn them into Craftsmen. What about those who are just entering the field? In this talk, we will explore a new approach to fulfilling the entire journey from Apprentice to Master, both from a personal and organizational level. We will also look at how to get such a program started, and how to bring the existing team along."
+        ],
+        "id": 754,
+        "speaker": "Steve Ropa",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/8ab5ab4950ee82ef31d004826912c3b2?s=150&r=pg&d=retro\" alt=\"Steve Ropa\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Building Software Craftsmen"
+    },
+    {
+        "para": [
+            "Most teams would rather work to deliver value to customers than spend time estimating stories.  In order to spend less time estimating and more time delivering value to the customer, many teams have adopted 'Affinity Estimation'.  Using 'Affinity Estimation' many teams have significantly reduced the time required to estimate and I have personally been involved in sessions that used to take 60 minutes and are now taking 15 minutes.  By using 'Affinity Estimation' to compare new stories to real stories that were recently completed, teams are able to quickly and confidently provide an estimate without lengthy discussions and worries of the unknown. ",
+            "The session will begin with a brief presentation highlighting everyday problems that coaches deal with when estimating stories.  Then, using volunteers from the audience, we will work through a series of exercises/games demonstrating the value of \"Affinity Estimation\" while teaching the audience and the volunteers how to coach these exercises for their own teams.",
+            "This session will provide you with exercises that you can use for existing teams, as well as, new teams. "
+        ],
+        "id": 755,
+        "speaker": "John Sextro",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/b1c4dc92e7c8282a48de66629afa98a9?s=150&r=pg&d=monsterid\" alt=\"John Sextro\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Coaching Affinity Estimation"
+    },
+    {
+        "para": [
+            "Agile Manifesto sez: Our highest priority is to satisfy the customer through early and continuous deliveryof valuable software.",
+            "Why doesn't being 'Agile' always mean creating innovative, world-changing, valuable software?  This session will focus on the tools and techniques of Requirements Craftsmanship and Lean-Start-up including understanding and creating Business Value, Value Stories, Story Mapping, and Getting out of the Building, that are the building blocks of value for Agile teams and, importantly, the customer and stakeholders for whom Agile teams create.    Participants will also explore the differences between measuring the output from Agile teams and measuring the outcomes that indicate value acheived.   This session will give participants real experience Requirements Craftmanship and introduce them to the challenges of making sure that Agile teams produce valuable software early and continuously, which is the highest priority of the Agile Manifesto and the goal of Requirements Craftsmanship."
+        ],
+        "id": 756,
+        "speaker": "Holly Stoner Bielawa",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/2aff474bcab362d5549e5ba6adc266fe?s=150&r=pg&d=wavatar\" alt=\"Holly Stoner Bielawa\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Requirements Craftsmanship 101"
+    },
+    {
+        "para": [
+            "Sometimes people in organizations feel as though Agile has been pushed on them. They end up going through the motions, without any real sense of ownership of what they are doing. Instead of actually implementing meaningful changes, organizations end up doing \"Agile in name only\" by slapping Agile labels on existing processes. Then Agile is blamed for \"not working\". This isn't an Agile problem. It's an alignment and ownership problem. In this session, through theory and multiple real-world case studies, you'll learn how to co-create change by involving the people affected by the change in the design of the change.",
+            " "
+        ],
+        "id": 765,
+        "speaker": "jasonlittle",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/abcaebf445895bee03342e7c5b9f8763?s=150&r=pg&d=wavatar\" alt=\"jasonlittle\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Creating Alignment for Agile Change"
+    },
+    {
+        "para": [
+            "Creating a backlog of user stories is pretty straight forward but it doesn't help you when it comes to decisions like what to build first, how to prioritize and groom the backlog, how to slice your stories, how to scope and plan the project, and how to visualize progress. The traditional backlog is simply too flat and often too long to help you see the bigger picture and make good decisions. User Story Mapping helps simplify all of these common project issues. By adding a third dimension to your backlog, your team will make better decisions about priorities, scope, and planning while improving your ability to visualize progress.",
+            "In this practical tutorial we'll focus strictly on creating story maps. We'll start the tutorial by creating an introductory map that will help you understand the basics. The remainder of the tutorial we'll create and then refine a story map map based on a project overview and some given scenarios. After this tutorial you'll be ready to create maps for your own projects."
+        ],
+        "id": 767,
+        "speaker": "Steve Rogalsky",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/ff2865bf6355b71719917e73c86d9f1e?s=150&r=pg&d=mm\" alt=\"Steve Rogalsky\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "User Story Mapping Deep Dive"
+    },
+    {
+        "para": [
+            "\"It's often better to be certain and wrong [about project schedules] than uncertain and right.\" - DeMarco and Lister, Waltzing With Bears",
+            "As much as the agile manifesto talks about 'responding to change', sooner or later, someone has to write a check to pay for things — and that person would probably prefer to avoid unbounded uncertainty. This workshop works through issues of cost, and risk, including how to communicate team performance. Use a combination of simulation, discussion, and presentation, Matt Heusser, Joseph Ours, and Damian Synadinos will cover various models for planning, from stories, to velocity, project comparison, #NoEstimates, Guru Method, and Predictive models. You'll leave with a firstfull of ideas to try, along with specific information of the strengths and weakness of each approach, including both technical and social angles."
+        ],
+        "id": 784,
+        "speaker": "Matt Heusser",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/029780fa46bfc1d919adc994c3d0abb3?s=150&r=pg&d=wavatar\" alt=\"Matt Heusser\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "A fistful of Agile Planning Techniques"
+    },
+    {
+        "para": [
+            "In his book Thinking Fast and Slow, Nobel winner Daniel Kahneman introduces two mental systems, one that is fast and the other slow. Together they shape our impressions of the world around us and help us make choices. System 1 is largely unconscious and makes snap judgments based upon our memory of similar events and our emotions. System 2 is painfully slow, and is the process by which we consciously check the facts and think carefully and rationally. However, System 2 is easily distracted and System 1 is wrong quite often. System 1 is easily swayed by our emotions. Examples he cites include the fact that pro golfers are more accurate when putting for par than they are for birdie (regardless of distance), and people buy more cans of soup when there's a sign on the display that says 'Limit 12 per customer.' In this session we will, through interactive games, learn how our minds can affect our abilities to investigate, observe, and recall events. We'll discuss some strategies to minimize our minds erroneous impacts to those abilities."
+        ],
+        "id": 787,
+        "speaker": "Joseph Ours",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e8db3a295983267553712deca404aa72?s=150&r=pg&d=retro\" alt=\"Joseph Ours\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Thinking Fast and Slow: Understanding how cognitive bias affects team dynamics"
+    },
+    {
+        "para": [
+            "Is Agile purely a software development tool?  Of course not!  The principles of Agile can applied just about anywhere.  So why hasn't all of your IT organization adopted Agile practices?",
+            "The truth is, once your software project is done and you're on to the next one, IT Operations takes over.  Systems administration, networking, desktop support, and data management must all work in concert to support your application.  Are you in alignment with the entire value chain? ",
+            "This talk will cover a number of management philosophies, including Agile, Lean, ITSM, and Gamification, and discuss how they can be applied outside of software development to bring greater alignment and effeciency to the enterprise IT department.  We'll show you real life examples of where Agile practices have been successfully adopted outside of software development, the challenges we faced in our own transformation, and how we overcame them."
+        ],
+        "id": 791,
+        "speaker": "Erik Zempel",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/55ead29fcd9e349893abe443c7b246ff?s=150&r=pg&d=monsterid\" alt=\"Erik Zempel\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Extending Agile Beyond Software Development"
+    },
+    {
+        "para": [
+            "Ken Schwaber, a co-creator of scrum, says that only 25% of teams trying Scrum actually realize the gains they had hoped for. Another informal poll shows teams callling themselves \"Scrumbut\", \"Scrumerfall\", or \"Scrumish\" than actually claim to successful!",
+            "It is as if something conspires to make Scrum ineffective.  \r\n\r\nLet's get real. Scrum is designed to expose problems. It does not, by itself, solve the problems. In theory, Scrum provides a framework for the team to work through the solution themselves. In practice, politics, rhetoris, and lack of training often get in the way.\r\n\r\nThis talk is about understanding common Scrum problems and breaking through ruts.\r\n\r\nIn this conversation Matthew Heusser and Wade Wachs will discuss the heart of Scrum, where it goes wrong, how testing can enable Scrum success - and how team members can improve their visibility and role while contributing to Scrum and team long-term success."
+        ],
+        "id": 792,
+        "speaker": "Matt Heusser",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/029780fa46bfc1d919adc994c3d0abb3?s=150&r=pg&d=retro\" alt=\"Matt Heusser\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Save Our Scrum"
+    },
+    {
+        "para": [
+            "In a software development team, there are two primary jobs: development and support. However, depending on the size of the team, sometimes it is not feasible to separate these roles between developers. Problems arise when a team receives critical support requests during a sprint. Changing the scope of the sprint is not allowed; allocating certain team members to fix the issue may jeopardize the momentum of development. How can a team compromise between fulfilling customer requests immediately without impacting sprint development? In this talk, Sam will present a case study on how his team restructured its workflow to handle incoming requests while preserving sprint momentum."
+        ],
+        "id": 802,
+        "speaker": "Sam Nadarajan",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/d0716f3d43c145d0ade2d28ab2e21aeb?s=150&r=pg&d=identicon\" alt=\"Sam Nadarajan\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Handling interruptions during sprints: How to fulfill client requests and reduce impacting development."
+    },
+    {
+        "para": [
+            "When we simplify the Agile Manifesto's 'Individuals and Interactions over Processes and Tools' we get 'People over Process'. Agile is about people. Join us for a deep dive into how to build safety and trust to drive engagement and results.",
+            "Sadly, many organizations are mired in organizational debt: mistrust, politics and fear. Changing the process won't fix this. We need to go to the root of it - to find a way to talk about and shift to a healthier culture.",
+            "In this interactive workshop you will learn to see the dynamics of human systems and where to apply leverage to foster change using the VAST (Vulnerability, Authentic Connection, Safety and Trust) model.",
+            " "
+        ],
+        "id": 805,
+        "speaker": "Michael Sahota",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/f2cbcf4ed8959de77b96778631c8afb8?s=150&r=pg&d=retro\" alt=\"Michael Sahota\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "People over Process"
+    },
+    {
+        "para": [
+            "This talk tells the story of agile transformation through adoption by comparing and contrasting the real world experiences of making that change from the perspective of large to small organizations and how they overcame unique hurdles. You'll see how agile adoption varies from organization to organization and the different paths organizations take to agile."
+        ],
+        "id": 807,
+        "speaker": "Mid-Michigan Agile Group",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/724f5536d12d2bbecef217e3eb8d10df?s=150&r=pg&d=monsterid\" alt=\"Mid-Michigan Agile Group\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile Adoption in the Organization"
+    },
+    {
+        "para": [
+            "Development engineering practices are many times misunderstood or completely ignored by the business.  The business wants valuable features, faster and with few defects.  I believe when the business and development understand each others practices... each party can delivery more business value... cheaper, faster, simpler.  This presentation will be a fun journey allowing developers and business-types alike to come to a common understanding of why understanding each other is important."
+        ],
+        "id": 812,
+        "speaker": "DJ Daugherty",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/5b94381f39bad8b12cf18e07ef43bea2?s=150&r=pg&d=identicon\" alt=\"DJ Daugherty\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "A Managers Guide to Gaining an Appreciation for the Engineering Practices"
+    },
+    {
+        "para": [
+            "In this world of ever increasing opportunities to purchase 'toys' classified as 'drones'… have you ever wanted to fly a drone? Have you ever asked yourself the question&hellip; should I buy a drone or build? This presentation will discuss why the term 'drone' should be most generally referred to as&hellip; 'multi-rotor copter' and not UAV (unmanned autonomous vehicle) or drone. This presentation will discuss the basics of how a multi-rotor works&hellip; the steps to build a multi-rotor&hellip; including details on flight controllers, frame selection, motors and props (including determining what type of multi-rotor will suite your purpose), speed controllers and batteries. There are a lot of variables&hellip; all of these details will be broken down, making the process of building your first copter a 'flight in the park'. At the end&hellip; a flying multi-rotor copter will be air-worthy and demonstrated."
+        ],
+        "id": 813,
+        "speaker": "DJ Daugherty",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/5b94381f39bad8b12cf18e07ef43bea2?s=150&r=pg&d=mm\" alt=\"DJ Daugherty\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "BYOD : Build your own drone… multi-rotor quadcopter that is!"
+    },
+    {
+        "para": [
+            "Attention coaches, Scrum Masters, and facilitators! This session is for YOU! Come get hands-on experience with a variety of games and activities that you can use to help people understand the power of Agile ways of working.",
+            "When working with people who are new to Agile it is important to engage them in the experience. Talking about the wonders of collaboration and communication rarely changes anyone's mind, but creating an environment where they can experience the value of rapid feedback, creative communication techniques, and collaborating as a team can help them see new opportunities for application in their day to day work.",
+            "In this session you will not only get to experience these activities, you'll come away with new skills in how to conduct them and debrief them as well."
+        ],
+        "id": 817,
+        "speaker": "Susan DiFabio",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/a544d43ed4e9f75d1c9051e93664ccef?s=150&r=pg&d=identicon\" alt=\"Susan DiFabio\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile Coach Activity Pack - Experience and Learn Through Four Simulations"
+    },
+    {
+        "para": [
+            "Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated.",
+            "I would like to start the mornings before the conference off with a good cup of coffee and some good rousing discussions."
+        ],
+        "id": 819,
+        "speaker": "Jeremiah Landi",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/bfd040894a4c2d80acb0abd08662e53f?s=150&r=pg&d=identicon\" alt=\"Jeremiah Landi\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Lean Coffee"
+    },
+    {
+        "para": [
+            "Your company's lean/agile transformation needs to include a major overhaul of your talent development practices. The landscape of finding, growing and retaining talented people has changed drastically over the last 10 years and lean practices and an agile mindset only accelerates that change so you need to be prepared?",
+            " ",
+            "During this session, Rachel Howard and Matt Barcomb will guide you through new ways of finding good people that are better matches for your organization, professionally and culturally as well as more effective ways to grow talent in-house and creative retention methods that better match the needs of the new generation of technologists.",
+            " ",
+            "Anyone who has traditional 'HR responsibility' or is involved with traditional recruiting, hiring, compensating or training will leave this session with fresh ideas and pragmatic practices they can put to use quickly."
+        ],
+        "id": 820,
+        "speaker": "Matt Barcomb",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/18cbb694c43dd4017353029d6f932a84?s=150&r=pg&d=mm\" alt=\"Matt Barcomb\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Talent Development 3.0"
+    },
+    {
+        "para": [
+            "Many organizational change initiatives fail due to lackluster leadership support. This should not surprise us as we often find that just below the surface nothing has changed. We should not expect organizations to transform if we don't design an ecosystem that allows emergence and growth to thrive.",
+            "The future of leadership lies in the ability to cultivate this ecosystem. Modern leaders need to facilitate continuous change by seeing their organization as a system while simultaneously embracing uncertainty.",
+            "Attendees will leave this session with the ability to facilitate pragmatic practices they can use immediately to apply fundamental concepts about systems and uncertainty."
+        ],
+        "id": 821,
+        "speaker": "Matt Barcomb",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/18cbb694c43dd4017353029d6f932a84?s=150&r=pg&d=monsterid\" alt=\"Matt Barcomb\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "A Systems Approach to Modern Leadership"
+    },
+    {
+        "para": [
+            "Do you ever have difficulty getting your internal team and client on the same page about the scope of a project?  Do you ever get to the end of a project and find out that what you have created isn't what the project sponsors expected?  Do your projects run behind as more and more requirements are added to the scope?",
+            "Two Menlo High-Tech Anthropologists (R) share techniques such as vision statements and persona mapping that help build consensus and tame scope creep in an interactive session."
+        ],
+        "id": 824,
+        "speaker": "Megan Graham",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/708662a681befb82e3bfbaa3501219e0?s=150&r=pg&d=wavatar\" alt=\"Megan Graham\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Taming Scope Creep"
+    },
+    {
+        "para": [
+            "If you've ever been through a home renovation, you know what a massive disruption it can be. Dust is everywhere, your mid-day quiet coffee ritual is displaced with the sweet sounds of hammer-to-nails and saw-to-wood and some (or all?) of your house is pretty much unusable.",
+            "When Agile Transformation is used as a trigger for change, it's going to render some parts of your organization unusable until some progress is made.",
+            "In a reno, we tolerate the upheaval and turmoil because we know that, when it's done, we'll have a better place to live.",
+            "In this session, with help from Sue Johnston, Jason Little and Andrew Annett, you'll learn to apply the metaphor of Organizational Remodelling to implementing and guiding change in your organizations."
+        ],
+        "id": 827,
+        "speaker": "Sue Johnston",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/26187fbb1c225c275d27fc19772a230e?s=150&r=pg&d=identicon\" alt=\"Sue Johnston\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Think \"renovation\" not \"transformation\""
+    },
+    {
+        "para": [
+            "Agile is so much more than rituals and buzzwords, but often the real value is lost as organizations focus more on adhering to processes than the reasons behind them. Teams all too easily fall into the trap of following a prescribed method and deviate little from that original template. A continuous improvement approach implies a team is regularly questioning, tweaking, and iterating on its own version of Agile. Today's set of practices and processes should not be identical to those from a year ago.",
+            "Join Blake Nyquist and Wade Wachs for a discussion on Agile thinking and how to break out from a fixed set of processes. You will leave this session with an increased understanding of how Agile practices can and should be useful, along with ways to focus on their value in your organization. Bring pains points from your own Agile efforts to discuss with others in the session and take actionable suggestions back to your team on Monday.",
+            " "
+        ],
+        "id": 828,
+        "speaker": "Blake Nyquist",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/2425b77deb6815b5e0297a620f1830e7?s=150&r=pg&d=retro\" alt=\"Blake Nyquist\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile NOT By The Book"
+    },
+    {
+        "para": [
+            "A project's problem space is viewed through so many lenses: For developers, \"code\"; for designers, \"user experience\"; for analysts, \"data structure\"; for project managers, \"scope/budgets\". But how do teams share a common understanding of a business model when tackling a problem? And have fun at the same time? At Menlo, before we tackle software development, we visualize our problem spaces through two \"share and make sense\" techniques that render even the most complex technical problem accessible to anyone involved in a project discussion. Using simple, inexpensive tools--and a lot of teamwork--you will learn the art and craft of graphic object modeling and visual work flows that are guaranteed to promote both smiles and lively discussions."
+        ],
+        "id": 829,
+        "speaker": "Carol Treat Morton",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/b7b45c3025bb1c6a163ea7c13318a509?s=150&r=pg&d=mm\" alt=\"Carol Treat Morton\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "How Crayons & Post-its Can Alleviate Data Distress and Object Obscurity"
+    },
+    {
+        "para": [
+            "If you could single out just one Agile practice which gives the most bang for your buck, that would undeniably be a retrospective!",
+            "Retrospective allows a team to inspect and adopt it’s process. For a team that is distributed across different locations and time zones retrospective becomes a must!",
+            "This workshop will examine the ways of using  elements of Gamification to reenergize retrospectives and help the team to become better.",
+            "We will  looks closely at some of the most common retrospectives anti-patterns. As part of this hands-on workshop attendees get to experience, compare and contrast a number of facilitation frameworks that they can bring back to their organizations."
+],
+        "id": 831,
+        "speaker": "Dana Pylayeva",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/34a031fba74dac804493734215d3ba61?s=150&r=pg&d=wavatar\" alt=\"Dana Pylayeva\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Gamifying Retrospectives for Distributed Teams"
+    },
+    {
+        "para": [
+            "Is your team pointing the finger at one another? Does development hold responsible the business and is the business accusing development? Is everyone too busy pointing the finger to address the problems? Discover how to recognize blame and move beyond it to foster a safe culture. Come to this interactive talk to discover ways to change culture, leave with tools to help you initiate change immediately, and learn from observations and experiments from real experiences with various teams in different organizations in different size businesses.",
+            " "
+        ],
+        "id": 833,
+        "speaker": "April Jefferson",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/6fdbed82d01061010f635a723302908c?s=150&r=pg&d=monsterid\" alt=\"April Jefferson\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "It's Your Fault!"
+    },
+    {
+        "para": [
+            "As individuals we often struggle to move from working together simply as a collection of people to acting as a cohesive team. Establishing shared understanding of the problem we are trying to solve and the capabilities we bring to the task can be difficult. At the heart of the challenge is making our thoughts tangible and meaningful to others.",
+            "Using Lego&reg; SeriousPlay&trade; materials and methods to surface and express what is inside ourselves is a powerful technique for energizing teams. Based on cognitive neuroscience and learning theory these techniques have been proven to be effective in a broad range of contexts and group sizes. Deliberate play is a key component to social interaction and creative problem solving in groups.",
+            "And it's fun!"
+        ],
+        "id": 834,
+        "speaker": "Andrew Annett",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/5834b96f9158a3d5f5a2dddf6d170fa4?s=150&r=pg&d=identicon\" alt=\"Andrew Annett\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Team Alignment with Lego® SeriousPlay™"
+    },
+    {
+        "para": [
+            "As a business analyst on an agile team, do you spend your time gathering decisions from Product Owners (or stakeholders) and passing them on to development teams? Are you tired of simply being a 'proxy without power?' What can you do to boost your impact and become invaluable to your team?",
+            "In this workshop, Diane Zajac-Woodie demonstrates how any team can benefit from the communication and facilitation skills of an experienced BA. Through some experiential exercises, you will learn what impact collaboration has on results and why requirements are just as important as ever. Diane also teaches you how to document requirements so people will actually read them. Using Acceptance Test Driven Development (ATDD), you will practice writing requirements that describe the exact behaviors that you expect in a format that everyone understands.",
+            "Be inspired to embrace your role in an agile environment and leave with new techniques that encourage more cohesive teams and ultimately lead to higher quality software."
+        ],
+        "id": 836,
+        "speaker": "Diane Zajac-Woodie",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/7a7cc58070c90443e3361f8fb1736b55?s=150&r=pg&d=mm\" alt=\"Diane Zajac-Woodie\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "The Business Analyst: How To Be More Than a Proxy"
+    },
+    {
+        "para": [
+            "When something goes wrong in your personal or working life how do you respond? Do you blame someone else for creating the situation? Do you just simply say 'Wow I suck!' and accept that things cannot get better? Although responses such as these prove you're human, they also don't improve the outcome. If you find yourself stuck on problems do you want to move past them? The Responsibility ProcessTM is the result of decades of research and defines how humans respond to loss or failure.",
+            "The Responsibility Process has  allowed me to create lasting improvements in my career and life with outcomes I can be proud of. As an accredited practitioner in The Leadership Gift ProgramTM I would like to share this simple process with you. You will be able to take what you learn and start applying it tomorrow.",
+            " "
+        ],
+        "id": 837,
+        "speaker": "Mike Edwards",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/02999e15e4cd456e8a44d302609f3118?s=150&r=pg&d=retro\" alt=\"Mike Edwards\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Lead yourself first with responsibility"
+    },
+    {
+        "para": [
+            "Scrum suggests that business analysts, testers and developers shed their old job titles and don the badge of 'team member.' And current trends like mob programming further encourage team members to abandon their individual goals in the interest of team achievements. It seems there really is no 'I' on some teams...but should there be?",
+            "In this session, Diane evaluates the pros and cons of eliminating job titles and examines the concept of becoming a generalizing specialist. What does that really mean? What are the impacts to the team? Can you maintain your individual skills while your contributions to the team are getting blurred?",
+            "Come and join in the discussion!"
+        ],
+        "id": 841,
+        "speaker": "Diane Zajac-Woodie",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/7a7cc58070c90443e3361f8fb1736b55?s=150&r=pg&d=wavatar\" alt=\"Diane Zajac-Woodie\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "There’s No “I” in Team, But Should There Be?"
+    },
+    {
+        "para": [
+            "The art of building software combines understanding the value it creates and capturing the vision of the user. The best tool developed, thus far, to capture these needs is a Story Map, a tool that is both easily learned and easily implemented. Join us to learn how to build a Story Map, break down that map into story cards, and advance through a process that will provide details essential to successful execution and development of a project.",
+            " ",
+            " "
+        ],
+        "id": 842,
+        "speaker": "Daniel Davis",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/1a0f2984a7532f18e9278f0c3e3e9d85?s=150&r=pg&d=mm\" alt=\"Daniel Davis\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Story Mapping Made Real"
+    },
+    {
+        "para": [
+            "You've read all the books, you've gotten your certifications and now you have a team staring at you waiting for you to take the lead. There is no hesitation about how to perform the basics -- determining roles and scheduling meetings -- but how do you kick off an effective, high performing team?",
+            "Whether you have a brand new team or you're the new guy on an existing team, the tools and techniques you will learn in this session have proven to be effective from state government to private sector insurance.",
+            "As an accredited Leadership Gift Coach Jessica focuses on vocabulary, shared responsibility, and team agreements. You will leave the session able to facilitate more than one Innovation Games and utilize them during your kick offs to set the stage for a powerful and effective team no matter what methodology they use. "
+        ],
+        "id": 848,
+        "speaker": "Jessica Soroky",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/0ee3aec19eb32d7e66a8a4d49ea47c08?s=150&r=pg&d=monsterid\" alt=\"Jessica Soroky\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Building a high preforming and effective team in any environment"
+    },
+    {
+        "para": [
+            "Approaching TDD for Large Embeded systems. Provides a list of Gotchas and Fixes for those problems. "
+        ],
+        "id": 849,
+        "speaker": "Rich Dammkoehler",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/93bc13a9b45392e99dfcfa5fa672ac9a?s=150&r=pg&d=identicon\" alt=\"Rich Dammkoehler\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "TDD For Large Embedded Systems"
+    },
+    {
+        "para": [
+            "When delivery issues are made visible, there is often an immediate and natural change in behavior. In this session I will demonstrate a simple technique we have used with several teams at my current client to track Cycle Time and Process Cycle Efficiency (PCE) using Lego. In some cases, team members started to behave differently right away, as soon as they saw where the time was going. Two interesting effects occurred naturally, without any training. First, teams that saw a lot of red Lego on their boards adjusted their work in process (WIP). They didn't know the term \"WIP\" but they could see the effect and acted appropriately on the information. Second, the moment a team mate placed a red brick on the board, other team members asked what the impediment was and how they could help remove it. "
+        ],
+        "id": 853,
+        "speaker": "Dave Nicolette",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e27e8f1c2ac0b54e49a053521d02772e?s=150&r=pg&d=identicon\" alt=\"Dave Nicolette\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Using Lego to visualize Cycle Time and Process Cycle Efficiency"
+    },
+    {
+        "para": [
+            "Testers can spend a lot of time managing test documentation through the test execution process. They need efficient and effective methods for sharing test information, such as test results, bugs, and status. Applying visual communication techniques can help! In this session we'll focus on visual communication concepts, and why you as a tester should be communicating visually. Then we'll look at some real-world visual communication tips and techniques using screen capture tools you can use to improve.    ",
+            " "
+        ],
+        "id": 857,
+        "speaker": "Jess Lancaster",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/74abe3400208159f1ad2596ec01ac2d2?s=150&r=pg&d=retro\" alt=\"Jess Lancaster\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Show It!: Better Testing through Visual Communication"
+    },
+    {
+        "para": [
+            "In many respects, developing training is a lot like developing software. Define the needs, identify scope boundaries and buckets, build, deliver &hellip; and cross your fingers. And, like all interesting software projects, the scope and need changes after the project gets started. What's a trainer to do? Use Agile, of course. But that's often easier said than done.",
+            "We've adapted Agile for instructional design and development projects  – we call it LLAMA (the Lot Like Agile Methods Approach)  – and it's gotten a lot of traction in the training industry. \r\n "
+        ],
+        "id": 858,
+        "speaker": "Megan Torrance",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/79df74db03eb2605b63c1c6a0e321f4d?s=150&r=pg&d=identicon\" alt=\"Megan Torrance\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Adapting Agile for Instructional Design (that’s fancy-talk for training)"
+    },
+    {
+        "para": [
+            "Working on the right thing, at the right time, with the right people. Scaling Agile throughout the organization doesn't have to feel overwhelming. Perhaps you want to apply SAFe but it feels to big to fit us or we are too big to fit it?",
+            "In this interactive session, Robert Woods will highlight the C.L.E.A.R. (Collaborative  – Lean  – Evolving  – Adaptable  – Reportable) concept of scaling Agile into an organizational portfolio management process.",
+            "Attendees will learn how by applying basic Agile methods and principles, they can organically scaling Agile to the top levels of an organization and achieve a scaled framework catered to their specific needs."
+        ],
+        "id": 860,
+        "speaker": "robert woods",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/83ab48ef01bddb6b48c1d4cfca0a1a95?s=150&r=pg&d=identicon\" alt=\"robert woods\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Organically Scaled Agile: Creating a CLEAR Agile Portfolio"
+    },
+    {
+        "para": [
+            "\"As a user of your system, I want functionality so that I can achieve my goals. Unfortunately, your team's users stories are getting in the way.\"",
+            "Users Stories, the tool teams use to break ideas into small chunks of deliverable work, are easy to describe and challenging to write. This session is about writing great user stories and acceptance criteria by ensuring everyone on the team knows what needs to be done. We will discuss what elements should be included and which ones are optional; why the size of your user story is important and how to make them smaller; and the structure for better acceptance criteria."
+        ],
+        "id": 862,
+        "speaker": "Jeffrey Davidson",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/4cfa02b640803caa995097c0e12a769d?s=150&r=pg&d=identicon\" alt=\"Jeffrey Davidson\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Writing Better User Stories"
+    },
+    {
+        "para": [
+            "What does it mean to build antifragile relationships and teams? Teams and organizations, at least successful ones, are based on relationships that \"work.\" Often we say we want 'strong' or 'good' relationships, but is 'strong' good enough? We will look at ways you can identify if the foundation of your team relationship is fragile or antifragile. Then we will work with a number of approaches and tools to help you create or expand on the foundation of an antifragile for your team.  ",
+            "Help your team (or organization) move towards a space where your relationships and therefore teams can thrive. We will consider how to build an alliance with a team and how to setup, in advance, to deal with potential conflicts. We will also explore a number of common issues contributing to toxic team situations. Antifragile is not an endpoint.  Like agile, it is a journey and mindset. The ideas we will explore are not just about \"them\", but are about \"us\" first. We have to start with us. What can WE bring to the table and what can WE do or be. Expect to work individually and with others in this interactive workshop."
+        ],
+        "id": 868,
+        "speaker": "Jake Calabrese",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/e0df5142be8b24891da52ac23800f54e?s=150&r=pg&d=mm\" alt=\"Jake Calabrese\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Building Antifragile Relationships and Teams"
+    },
+    {
+        "para": [
+            "The naive implementation of old-school agile, invented in the 1990s and aimed at small, colocated teams, actually works remarkably well. Since that time, not only have we learned Why it works, but also how to use that Why to approach larger, more difficult, and even quite different problems. ",
+            "This keynote is a firehose introduction to the modern science of designing in teams, including ideas, strategies and techniques not found in the standard agile texts. Inside of it, you will learn how the best teams make use of the ideas presented to deliver unexpected good results. "
+        ],
+        "id": 1289,
+        "speaker": "Dr. Alistair Cockburn",
+        "speaker_img": "<img src=\"http://www.gravatar.com/avatar/be525c1549ce0a76dd30a6214b74b485?s=150&r=pg&d=mm\" alt=\"Dr. Alistair Cockburn\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Agile is for Wimps: Top-Level Software Development in the 21st Century",
+        "bio": "Dr. Alistair Cockburn, one of the original creators of the Manifesto for Agile Software Development was voted one of the \"The All-Time Top 150 i-Technology Heroes\" for his pioneering work in use cases and agile software development. An internationally renowned IT strategist and author of the Jolt award-winning books \"Agile Software Development\" and \"Writing Effective Use Cases\", he is an expert on agile development, use cases, process design, project management, and object-oriented design. In 2001 he co-authored the Agile Manifesto, in 2003 he created the Agile Development Conference, in 2005 he co-founded the Agile Project Leadership Network, in 2010 he co-founded the International Consortium for Agile. Many of his articles, talks, poems and blog are online at http://alistair.cockburn.us."
+    },
+    {
+        "para": [
+            "Traditional definitions of leadership emphasize position, formal authority and power, vision, heroics. Those definitions might have been sufficient in another time. Organizations that need to respond to a fast-changing environment and desire continuous improvement require a different kind of leadership and a different kind of leader.",
+            "In this talk, we'll explore a different definition of leadership: “The ability to enhance the environment, so that everyone is empowered to contribute creatively to solving the problem(s)”… and what it means to lead from where you are."
+        ],
+        "id": 1290,
+        "speaker": "Esther Derby",
+        "speaker_img": "<img src=\"http://agileandbeyond.com/2015/img/speakers/e_derby_thumb.jpg\" alt=\"Esther Derby\" class=\"img-thumbnail \" style=\"width: 158px\"/>",
+        "title": "Leaders at All Levels",
+        "bio": "Esther Derby is an expert in organizational dynamics and a leading thinker in bringing agility to organizations, management, and teams. She has spent the last twenty-five years helping companies design their environment, culture, and human dynamics for optimum success. In addition to this work, she’s written over 100 articles, and co-authored two books–Agile Retrospectives: Making Good Teams Great and Behind Closed Doors: Secrets of Great Management."
+    }
+]

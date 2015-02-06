@@ -442,7 +442,7 @@ table {
 }
 @media screen and (min-width: 768px) {
   .row {
-    overflow-x: hidden;
+    overflow: hidden;
   }
 }
 [class*="span"] {
@@ -822,8 +822,6 @@ fieldset[disabled] .btn {
   color: #ffffff;
   background-color: #428bca;
   border-color: #357ebd;
-  padding: 18px 24px;
-  font-size: 1.5em;
   margin-bottom: 20px;
 }
 .btn-primary:hover,
@@ -1346,4 +1344,155 @@ td {
   font-family: 'FontAwesome';
   color: #676b6a;
   font-weight: normal;
+}
+.schedule-table table.Basic-Table {
+  border-color: #231f20;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: -4px;
+  margin-top: 4px;
+}
+.schedule-table p.Basic-Paragraph {
+  color: #231f20;
+  font-family: "Minion Pro", serif;
+  font-size: 12px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  orphans: 1;
+  page-break-after: auto;
+  page-break-before: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  widows: 1;
+}
+.schedule-table table tr {
+  border-bottom: 1px solid #2997ce;
+}
+.schedule-table table td {
+  border-left: 1px solid #2997ce;
+  border-right: 1px solid #2997ce;
+  padding: 4px;
+}
+.schedule-table table td a {
+  cursor: pointer;
+}
+.schedule-table table td.ae {
+  /*background: url(../img/ae_bg.jpg) repeat-y;*/
+}
+.schedule-table table td.beginner {
+  /*background: url(../img/beginner_bg.jpg) repeat-y;*/
+}
+.schedule-table table td.org {
+  /*background: url(../img/org_bg.jpg) repeat-y;*/
+}
+.schedule-table table td.team {
+  /*background: url(../img/team_bg.jpg) repeat-y;*/
+}
+.schedule-table table td.perd {
+  /*background: url(../img/perdev_bg.jpg) repeat-y;*/
+}
+.schedule-table table td.pd {
+  /*background: url(../img/proddev_bg.jpg) repeat-y;*/
+}
+.schedule-table table tr td:first-child {
+  border-left: none;
+}
+.schedule-table table tr td:last-child {
+  border-right: none;
+}
+.schedule-table table.TableOverride-1 {
+  border-color: #2997ce;
+  border-width: 0px;
+}
+.schedule-table table.TableOverride-2 {
+  border-width: 0.25px;
+}
+.schedule-table td.CellOverride-1 {
+  background-color: #2997ce;
+}
+.schedule-table td.CellOverride-2 {
+  padding-left: 10px;
+}
+.schedule-table p.ParaOverride-1 {
+  text-align: center;
+}
+.schedule-table span.CharOverride-1 {
+  font-family: Alef, sans-serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: normal;
+}
+.schedule-table span.CharOverride-2 {
+  font-family: Alef, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
+.schedule-table span.CharOverride-3 {
+  color: #2997ce;
+  font-family: "Droid Sans", sans-serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: normal;
+}
+.schedule-table span.CharOverride-4 {
+  font-family: Alef, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
+}
+.schedule-table span.CharOverride-5 {
+  font-family: "Droid Sans", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
+.schedule-table span.CharOverride-6 {
+  color: #ffffff;
+  font-family: Alef, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+}
+.schedule-table span.CharOverride-7 {
+  font-family: "Droid Sans", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+}
+.schedule-table span.CharOverride-8 {
+  font-family: "Droid Sans", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+}
+.schedule-table span.CharOverride-9 {
+  font-family: "Droid Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+.schedule-table div._idGenPageitem-1 {
+  text-align: center;
+}
+.ng-pageslide {
+  background: #eee;
+}
+.ng-pageslide #aab-content {
+  padding: 10px;
+}
+.ng-pageslide #aab-content img {
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 8px ;
+}
+.ng-pageslide #aab-content p {
+  font-size: 0.8em;
+  color: #000000;
 }
