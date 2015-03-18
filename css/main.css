@@ -1213,7 +1213,7 @@ td {
 .section-sponsors img {
   vertical-align: middle;
   padding: 30px;
-  width: auto;
+  width: 200px;
 }
 .section-schedule .schedule-slot {
   border: 1px solid #ddd;
