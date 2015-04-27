@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>Agile and Beyond Schedule</title>
+    <link rel="stylesheet" href="bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-hover.min.css" />
+    <link rel="stylesheet" href="bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-base.min.css" />
+    <link rel="stylesheet" href="bower_components/mobile-angular-ui/dist/css/mobile-angular-ui-desktop.min.css" />
+    <link rel="stylesheet" href="style/main.css">
+
+    <!--polyfil-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js">  </script>
+</head>
+<body ng-app="aabSchedule" ng-cloak ng-controller="scheduleController">
+<!-- Sidebars -->
+
+
+<div class="app">
+    <div class="navbar navbar-app navbar-absolute-top">
+        <div class="back" ng-if="backActive">
+            <button ng-click="back()" role="button" class="btn pull-left"><i class="fa fa-chevron-left"></i> Back</button>
+        </div>
+        <div class="logo"><h2><img src="../img/square_logo.png"> Agile and Beyond 2015</h2></div>
+    </div>
+
+
+    <!-- App body -->
+
+    <div class='app-body'>
+        <div class='app-content'>
+            <ng-view></ng-view>
+        </div>
+    </div>
+</div><!-- ~ .app -->
+
+<!-- Modals and Overlays -->
+<div ui-yield-to="modals"></div>
+
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="bower_components/underscore/underscore-min.js"></script>
+<script src="bower_components/mobile-angular-ui/dist/js/mobile-angular-ui.min.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+
+<script src="scripts/app.js"></script>
+<script src="scripts/services/underscore.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+
+    <div class="session scrollable">
+        <div class="scrollable-content">
+            <div class="image col-lg-1">
+                <div ng-bind-html="sessionData.speaker_img"></div>
+                <div class="caption">{{sessionData.speaker}}</div>
+            </div>
+
+
+            <div class="content col-lg-11">
+                <h2>{{sessionData.title}}</h2>
+                <div ng-if="sessionData.para.length > 0" class="description">
+                    <h3>Description</h3>
+                    <p ng-repeat="p in sessionData.para">{{p}}</p>
+                </div>
+
+                <div ng-if="sessionData.bio.length > 0">
+                    <h3>Biography</h3>
+                    <p>{{sessionData.bio}}</p>
+                </div>
+            </div>
+        </div>
+    </div>

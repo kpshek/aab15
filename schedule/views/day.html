@@ -1,0 +1,18 @@
+
+<div class="scrollable">
+    <h4 class="date_header">{{daySessions.date | date}}</h4>
+    <div class="scrollable-content">
+        <div class="list-group">
+            <div ng-repeat="(key, value) in daySessions.grouped">
+                <div class="list-group-item list-group-item-heading active">{{key*1000 | date:'h:mm a'}} - {{value[0].endTime*1000 | date:'h:mm a'}}</div>
+                <a class="list-group-item" ng-href="#/session/{{daySessions.date}}/{{session.id}}" ng-repeat="session in value | orderBy:'room'" style="overflow: hidden">
+                    <i class="fa fa-chevron-right pull-right"></i>
+                    <span ng-bind-html="session.speaker_img" class="speaker_img pull-left"></span>
+                    <span class="session_title">{{session.title}}</span>
+                    <span class="session_speaker">{{session.speaker}}</span>
+                    <div class="room">{{session.room}}</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
